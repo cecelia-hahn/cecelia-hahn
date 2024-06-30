@@ -3,7 +3,7 @@
 Currently learning:
 -Python
 -HTML/CSS
--C# (in the near future?)
+-C#
 
 <!---
 cecelia-hahn/cecelia-hahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
